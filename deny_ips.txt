@@ -1166,4 +1166,6 @@ a03:b0c0:3:d0::402:d001
 2600:3c04::f03c:94ff:fe64:a7e6
 23.239.21.238
 2600:3c01::f03c:94ff:fe64:a7a0
+# Blocklist of IP addresses used from onyphe.io
+51.161.24.64/28
 # End of blocklist
