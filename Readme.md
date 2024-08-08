@@ -17,6 +17,8 @@ Some scanners use cloud services such as AWS, Google Cloud, Digital Ocean etc. I
 - criminalip.io
 - recyber.net
 - alphastrike.io
+- shadowserver.org
+- driftnet.io
 
 ## How to use 
 
@@ -31,4 +33,6 @@ Some scanners use cloud services such as AWS, Google Cloud, Digital Ocean etc. I
 - [Checkpoint.com](https://community.checkpoint.com/t5/Management/HowTo-Block-IoT-scanners-like-Shodan-Censys-Shadowserver-PAN/td-p/124612)
 - [jgamblin gist](https://gist.github.com/jgamblin/2928d45730543fc7ef10cf56e5a980b0)
 - [Connie-Wild/scanner-ip-list](https://github.com/Connie-Wild/scanner-ip-list/)
+- [driftnet.io Opt Out](https://internet-measurement.com/#ips)
 - ChatGPT
+
