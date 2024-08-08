@@ -1,6 +1,6 @@
 # Simple IPScanner UFW block script in bash
 
-This Script add UFW Deny Rules for IP's and IP-Subnets from different Security and IoT Scanning Services that scan your server. You must install ufw firewall for your distribution. Tested on Ubuntu and Debian. 
+This Script add UFW Deny Rules for IP's and IP-Subnets from different Security and IoT Scanning Services that may scan your server. You must install ufw firewall for your distribution. Tested on Ubuntu and Debian. 
 
 ---
 ## **Attention !**
@@ -14,6 +14,9 @@ Some scanners use cloud services such as AWS, Google Cloud, Digital Ocean etc. I
 - Censys.io
 - Shodan.io
 - zoomeye.hk
+- criminalip.io
+- recyber.net
+- alphastrike.io
 
 ## How to use 
 
@@ -23,13 +26,9 @@ Some scanners use cloud services such as AWS, Google Cloud, Digital Ocean etc. I
 
 ## Sources
 
-### IP's for Censys
 - [Censys Opt Out Site](https://support.censys.io/hc/en-us/articles/360043177092-Opt-Out-of-Data-Collection)
-
-### IP's for Shodan
 - [IPFire Wiki](https://www.ipfire.org/docs/configuration/firewall/blockshodan)
 - [Checkpoint.com](https://community.checkpoint.com/t5/Management/HowTo-Block-IoT-scanners-like-Shodan-Censys-Shadowserver-PAN/td-p/124612)
 - [jgamblin gist](https://gist.github.com/jgamblin/2928d45730543fc7ef10cf56e5a980b0)
-
-### IP's for zoomeye.hk
+- [Connie-Wild/scanner-ip-list](https://github.com/Connie-Wild/scanner-ip-list/)
 - ChatGPT
